@@ -1,0 +1,11 @@
+<div class="themenwelten row">
+    <div class="section-title"><span>Themenwelten</span></div>
+    <?php for ($i = 1; $i < 7; $i++): ?>
+        <?php $box = $this->getBlockData($i); ?>
+        <div class="thema">
+            <a href="<?php echo $box['url']; ?>" title="<?php echo $box['title']; ?>">
+                <img alt="<?php echo $box['img_alt']; ?>" src="<?php echo $box['img']; ?>" />
+            </a>
+        </div>
+    <?php endfor; ?>
+</div>

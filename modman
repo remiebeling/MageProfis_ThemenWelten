@@ -1,0 +1,5 @@
+app/code/local/MageProfis/ThemenWelten/						app/code/local/MageProfis/ThemenWelten/
+app/locale/de_DE/MageProfis_ThemenWelten.csv					app/locale/de_DE/MageProfis_ThemenWelten.csv
+app/etc/modules/MageProfis_ThemenWelten.xml					app/etc/modules/MageProfis_ThemenWelten.xml
+app/design/frontend/base/default/template/mageprofis/themenwelten/		app/design/frontend/base/default/template/mageprofis/themenwelten/
+app/design/frontend/base/default/layout/mageprofis-themenwelten.xml		app/design/frontend/base/default/layout/mageprofis-themenwelten.xml

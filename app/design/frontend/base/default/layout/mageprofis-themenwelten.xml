@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout>
+    <cms_index_index>
+        <reference name="content">
+            <block type="themenwelten/blocks" name="themenwelten.blocks" template="mageprofis/themenwelten/blocks.phtml" />
+        </reference>
+    </cms_index_index>
+</layout>
+
+ 
