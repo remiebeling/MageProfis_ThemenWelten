@@ -42,15 +42,6 @@
                 </admin>
             </resources>
         </acl>
-        <translate>
-            <modules>
-                <MageProfis_ThemenWelten>
-                    <files>
-                        <default>MageProfis_ThemenWelten.csv</default>
-                    </files>
-                </MageProfis_ThemenWelten>
-            </modules>
-        </translate>
     </adminhtml>
     <frontend>
         <layout>
